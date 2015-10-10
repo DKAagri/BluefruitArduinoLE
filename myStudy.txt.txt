@@ -1,0 +1,2 @@
+This module id for connecting the Bluefruit to Android . 
+Python app also upcoming.
