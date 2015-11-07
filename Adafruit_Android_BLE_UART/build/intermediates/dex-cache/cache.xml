@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/altanaibisht/android-sdks/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/altanaibisht/AndroidStudioProjects/Adafruit_Android_BLE_UART/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-52d57638800154c96d38a1d442077316e3d08e7f.jar" />
+    </item>
+
+</items>
