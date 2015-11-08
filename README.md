@@ -1,10 +1,11 @@
-# BluefruitArduinoLE 
+# Bluetooth Low Energy applications
 
-The code of this application is derived from 
+The repository was initially menat to contain to only my android applications for BLE usecase , but later decided to have the explanantion , study notes , orignals and experimented samples as well . 
 
-https://github.com/adafruit/Bluefruit_LE_Connect_Android
+One can refer to wiki page for individual explanantions of all modules 
+https://github.com/DKAagri/BluefruitArduinoLE/wiki
 
-More information about Bluefruit LE the device can be obtained form 
+Also note that the README of all the projects inside this repo contains the licence / sources for the project. Most of the projects bear the same license as sources projects ie MIT.
 
-https://blog.adafruit.com/2014/11/19/new-products-bluefruit-le-friend-bluetooth-low-energy-ble-4-0-nrf51822-v1-0-bluefruit-le-sniffer-bluetooth-low-energy-ble-4-0-nrf51822-v1-0/
+
 
