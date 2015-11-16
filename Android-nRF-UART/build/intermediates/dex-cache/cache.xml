@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/altanaibisht/AndroidStudioProjects/Android-nRF-UART/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/altanaibisht/AndroidStudioProjects/Android-nRF-UART/app/build/intermediates/pre-dexed/debug/classes-0e6391580293250cedcccee78953962a55fe8217.jar" />
+    </item>
+    <item
+        jar="/home/altanaibisht/android-sdks/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/altanaibisht/AndroidStudioProjects/Android-nRF-UART/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-0c14e5b37d408e2137059a5ad9f01fce60aff8e5.jar" />
+    </item>
+    <item
+        jar="/home/altanaibisht/AndroidStudioProjects/Android-nRF-UART/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/altanaibisht/AndroidStudioProjects/Android-nRF-UART/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-4863f91030c62edc8ecce474eaeb2896ab340550.jar" />
+    </item>
+
+</items>
